@@ -1,0 +1,118 @@
+{
+	"team": {
+		"7gods": [
+			{
+				"student_code": "620610019",
+				"name_en": "Jirapat Promta",
+				"name_th": "จิรพัฒน์ พรหมทา",
+				"nick_name_en": "Jame",
+				"nick_name_th": "เจม",
+				"roles": {
+					"core": ["Project Manager", "System Analyst"],
+					"sub": []
+				},
+				"qualification": "Experienced in team leader, with planning and controlling team members and development software end-end.",
+				"contacts": {
+					"github": "Jmjirapat",
+					"email": "jirapat.prt@gmail.com"
+				}
+			},
+			{
+				"student_code": "620610176",
+				"name_en": "Thian Suwannakul",
+				"name_th": "เธียร สุวรรณกุล",
+				"nick_name_en": "Thian",
+				"nick_name_th": "เธียร",
+				"roles": {
+					"core": ["Product Owner"],
+					"sub": []
+				},
+				"qualification": "Experienced in web development projects, data & image processing, visualization.",
+				"contacts": {
+					"github": "Naihtton",
+					"email": "thian.suwannakul@gmail.com"
+				}
+			},
+			{
+				"student_code": "640610625",
+				"name_en": "Chonlanan Thongthai",
+				"name_th": "ชลนันต์ ทองไทย",
+				"nick_name_en": "Wan",
+				"nick_name_th": "ว่าน",
+				"roles": {
+					"core": ["Project Manager"],
+					"sub": []
+				},
+				"qualification": "Experienced in web application development and have a good team collaboration.",
+				"contacts": {
+					"github": "ChonlananT",
+					"email": "notjonlanan@gmail.com"
+				}
+			},
+			{
+				"student_code": "640610651",
+				"name_en": "Piyaphat Khaosaeng",
+				"name_th": "ปิยพัชร ขาวแสง",
+				"nick_name_en": "Ton",
+				"nick_name_th": "ต้น",
+				"roles": {
+					"core": ["Developer"],
+					"sub": []
+				},
+				"qualification": "Experienced in web development projects and have a good team.",
+				"contacts": {
+					"github": "Piyaphat_kh",
+					"email": "alone2time@gmail.com"
+				}
+			},
+			{
+				"student_code": "640612093",
+				"name_en": "Panthaweekan Somngam",
+				"name_th": "พันธวีร์กานต์ สมงาม",
+				"nick_name_en": "Tata",
+				"nick_name_th": "ตาต้า",
+				"roles": {
+					"core": ["Developer"],
+					"sub": []
+				},
+				"qualification": "I have experience in developing Fullstack Web, with responsibilities including Database and Backend development.",
+				"contacts": {
+					"github": "Panthaweekan",
+					"email": "tatanoobza@gmail.com"
+				}
+			},
+			{
+				"student_code": "640612097",
+				"name_en": "Winittra Saengsroy",
+				"name_th": "วินิตรา แสงสร้อย",
+				"nick_name_en": "Aomzin",
+				"nick_name_th": "ออมสิน",
+				"roles": {
+					"core": ["Designer"],
+					"sub": []
+				},
+				"qualification": "Experienced in UX/UI design, graphics design and basic frontend developer.",
+				"contacts": {
+					"github": "Donteatpineappleonpizza",
+					"email": "aomzin.aomzin43@gmail.com"
+				}
+			},
+			{
+				"student_code": "640612179",
+				"name_en": "Jedsadaporn Juntong",
+				"name_th": "เจษฎาภรณ์ จันทร์ทอง",
+				"nick_name_en": "Boom",
+				"nick_name_th": "บูม",
+				"roles": {
+					"core": ["Tester"],
+					"sub": []
+				},
+				"qualification": "Experienced in frontend development and interested in testing.",
+				"contacts": {
+					"github": "buboobear",
+					"email": "jedsa.pd@gmail.com"
+				}
+			}
+		]
+	}
+}
