@@ -3,7 +3,7 @@ import { Link, Outlet } from "react-router-dom";
 function Dashboard() {
 	return (
 		<div className="flex h-screen w-screen">
-			<div className="flex flex-col justify-between border-e bg-white w-72">
+			<div className="flex flex-col justify-between border-e bg-white w-72 fixed h-full">
 				<div className="px-4 py-6">
 					<ul className="mt-6 space-y-1">
 						<li>
@@ -68,7 +68,7 @@ function Dashboard() {
 					</ul>
 				</div>
 			</div>
-			<div className="ml-2 w-full">
+			<div className="w-full ml-72">
 				<Outlet />
 			</div>
 		</div>

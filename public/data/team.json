@@ -104,7 +104,7 @@
 				"nick_name_en": "Boom",
 				"nick_name_th": "บูม",
 				"roles": {
-					"core": ["Tester"],
+					"core": ["Product Owner", "Tester"],
 					"sub": []
 				},
 				"qualification": "Experienced in frontend development and interested in testing.",

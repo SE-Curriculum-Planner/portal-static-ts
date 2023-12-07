@@ -22,6 +22,18 @@ function Proposal() {
 	};
 	return (
 		<div className="w-full mt-10">
+			<div className="flex justify-center items-end gap-2 mb-2">
+				<h2 className="text-slate-900 font-extrabold text-xl sm:text-2xl lg:text-3xl tracking-tight">
+					Proposal Document
+				</h2>
+				<a
+					href="https://se-curriculum-planner.github.io/portal-static-ts/files/proposal.pdf"
+					target="_blank"
+				>
+					link
+				</a>
+			</div>
+
 			<Document
 				file="/portal-static-ts/files/proposal.pdf"
 				className="w-full flex justify-center"
