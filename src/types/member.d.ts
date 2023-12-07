@@ -9,6 +9,7 @@ type Member = {
 		sub: [];
 	};
 	qualification: string;
+	img_profile: string;
 	contacts: {
 		github: string;
 		email: string;
